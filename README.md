@@ -1,2 +1,0 @@
-# boolsreact
-Created with CodeSandbox
